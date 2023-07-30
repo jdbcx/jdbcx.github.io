@@ -6,4 +6,4 @@
 
 JDBCX enhances the JDBC driver by supporting additional data formats, compression algorithms, object mapping, type conversion, and query languages beyond SQL. It simplifies complex federated queries with dynamic query embedding and remote bridge server connectivity for multiple data sources.
 
-![image](https://user-images.githubusercontent.com/4270380/257033283-583e505b-9b38-4e42-acb4-677139dd6f2d.png)
+![image](https://user-images.githubusercontent.com/4270380/257034477-a5e1fe1a-bb1c-4478-addc-43fbdf4e4d07.png)
